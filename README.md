@@ -1,2 +1,2 @@
 # Certificates
-These are my principal certificates
+These are my main certificates
